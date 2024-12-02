@@ -1,0 +1,19 @@
+# ignore log files
+*.log
+
+# ignore bin directories
+[Bb]in/
+
+# ignore build files
+[Dd]ebug/
+[Rr]elease/
+
+#ignore nuget packages
+*.nupkg
+
+#ignore cache files
+*.cache
+
+#ignore vs
+.vs/
+.vscode/
